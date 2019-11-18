@@ -1,4 +1,4 @@
-## installation modules (npm install)
+# installation modules (npm install)
 * express : framework de nodejs para crear aplicaciones servidor(backend)
 * express-handlebars : integracion del motor de plantillas handlebars.
 * express-session: administra las sesiones de nuestra app. sera necesario para autenticar a un usuario más tarde.
@@ -21,11 +21,11 @@
 
 * express-validator: es un módulo para validar los datos que el usuario nos envia desde la aplicacion cliente.
 
-*nodemon -D : es un módulo de desarrollo
+* nodemon -D : es un módulo de desarrollo
 
-## Creando carpetas donde se encontrará todo el codigo del proyecto
+# Creando carpetas donde se encontrará todo el codigo del proyecto
 
-# mkdir: este comando permite crear carpetas(ejemplo mkdir lib public etc).
-# touch : este comando permite crear archivos ejemplo( touch index.js).
+- mkdir: este comando permite crear carpetas(ejemplo mkdir lib public etc).
+- touch : este comando permite crear archivos ejemplo( touch index.js).
 
 
